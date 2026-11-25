@@ -8,11 +8,13 @@ venv/
 .venv/
 env/
 ENV/
+token.txt
 
 # Environment variables and secrets
 .env
 .env.*
 !.env.example
+data/
 
 # Testing
 .pytest_cache/
